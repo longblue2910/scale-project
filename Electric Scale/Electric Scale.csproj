@@ -1,0 +1,500 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A27F4B41-0658-4C5F-9D53-59B58FA6C20F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Electric_Scale</RootNamespace>
+    <AssemblyName>Electric Scale</AssemblyName>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>0C669DC595C052E17566D6923004C1A9AD7E91B5</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Electric Scale_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>Can oto.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>D:\Datas\Working\Scale program\Setup\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Aji_Soft\Raw Material\dll\AxInterop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="c1.c1excel, Version=1.1.20053.40, Culture=neutral, PublicKeyToken=bc8d9c59cf1b601f" />
+    <Reference Include="C1.C1PrintDocument, Version=1.0.20053.287, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8" />
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948" />
+    <Reference Include="C1.Win.C1Command.2, Version=2.0.20062.17012, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.2, Version=2.0.20062.30142, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1List.2, Version=2.1.20062.104, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1PrintPreview, Version=1.0.20053.287, Culture=neutral, PublicKeyToken=3af768410ba0a64f" />
+    <Reference Include="C1.Win.C1Report, Version=2.5.20053.188, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9" />
+    <Reference Include="C1.Win.C1TrueDBGrid.2, Version=2.0.20062.60510, Culture=neutral, PublicKeyToken=75ae3fb0e2b1e0da, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC\CrystalDecisions.Enterprise.Framework\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Enterprise.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC\CrystalDecisions.Enterprise.InfoStore\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Enterprise.InfoStore.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Electric Scale Components, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Interop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Aji_Soft\Raw Material\dll\Interop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cls\cls_Customer.cs" />
+    <Compile Include="cls\cls_Department.cs" />
+    <Compile Include="cls\cls_Form.cs" />
+    <Compile Include="cls\cls_Option.cs" />
+    <Compile Include="cls\cls_Permission.cs" />
+    <Compile Include="cls\cls_PhongBan.cs" />
+    <Compile Include="cls\cls_Position.cs" />
+    <Compile Include="cls\cls_Product.cs" />
+    <Compile Include="cls\cls_ScaleData.cs" />
+    <Compile Include="cls\cls_ScaleType.cs" />
+    <Compile Include="cls\cls_UserGroup.cs" />
+    <Compile Include="cls\cls_User.cs" />
+    <Compile Include="ctrl\ctrl_Customer.cs" />
+    <Compile Include="ctrl\ctrl_Department.cs" />
+    <Compile Include="ctrl\ctrl_GroupAndUser.cs" />
+    <Compile Include="ctrl\ctrl_Permission.cs" />
+    <Compile Include="ctrl\ctrl_Position.cs" />
+    <Compile Include="ctrl\ctrl_Product.cs" />
+    <Compile Include="ctrl\ctrl_ScaleData.cs" />
+    <Compile Include="ctrl\ctrl_ScaleType.cs" />
+    <Compile Include="ctrl\ctrl_User.cs" />
+    <Compile Include="frm\frmHotKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmHotKey.designer.cs">
+      <DependentUpon>frmHotKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmAddWeightingSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmAddWeightingSheet.designer.cs">
+      <DependentUpon>frmAddWeightingSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmCreateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmCreateReport.designer.cs">
+      <DependentUpon>frmCreateReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditWeightSheetInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditWeightSheetInfo.Designer.cs">
+      <DependentUpon>frmEditWeightSheetInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditUser.Designer.cs">
+      <DependentUpon>frmEditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditGroup.Designer.cs">
+      <DependentUpon>frmEditGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmCustomer.designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmDepartment.designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmProduct.designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmGroupAndUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmGroupAndUser.Designer.cs">
+      <DependentUpon>frmGroupAndUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmReportView.Designer.cs">
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmWeightingSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmWeightingSheet.Designer.cs">
+      <DependentUpon>frmWeightingSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmOptionSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmOptionSetting.Designer.cs">
+      <DependentUpon>frmOptionSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditCustomer.Designer.cs">
+      <DependentUpon>frmEditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditDepartment.Designer.cs">
+      <DependentUpon>frmEditDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmEditProduct.Designer.cs">
+      <DependentUpon>frmEditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="func\cls_Excel.cs" />
+    <Compile Include="func\cls_Registry.cs" />
+    <Compile Include="func\cls_MessageBox.cs" />
+    <Compile Include="func\cls_GlobalUtil.cs" />
+    <Compile Include="func\cls_C1LoadData.cs" />
+    <Compile Include="func\cls_ConvertFont.cs" />
+    <Compile Include="func\cls_Main.cs" />
+    <Compile Include="func\cls_Report.cs" />
+    <Compile Include="func\cls_TextFileReader.cs" />
+    <Compile Include="func\CommunicationManager.cs" />
+    <Compile Include="func\My.Designer.cs" />
+    <Compile Include="info\info_Permission.cs" />
+    <Compile Include="info\info_Position.cs" />
+    <Compile Include="info\info_Customer.cs" />
+    <Compile Include="info\info_Department.cs" />
+    <Compile Include="info\info_GroupAndUser.cs" />
+    <Compile Include="info\info_Product.cs" />
+    <Compile Include="info\info_ScaleData.cs" />
+    <Compile Include="info\info_ScaleType.cs" />
+    <Compile Include="info\info_User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm\frmHotKey.resx">
+      <DependentUpon>frmHotKey.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmAddWeightingSheet.resx">
+      <DependentUpon>frmAddWeightingSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmChangePassword.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmCreateReport.resx">
+      <DependentUpon>frmCreateReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditWeightSheetInfo.resx">
+      <DependentUpon>frmEditWeightSheetInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditGroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEditGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmGroupAndUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGroupAndUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmReportView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmWeightingSheet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmWeightingSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmOptionSetting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOptionSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditCustomer.resx">
+      <DependentUpon>frmEditCustomer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditDepartment.resx">
+      <DependentUpon>frmEditDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmEditProduct.resx">
+      <DependentUpon>frmEditProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt\WeightingSheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WeightingSheet.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rpt\WeightingSheet.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WeightingSheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docs_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="Resources\add.ico" />
+    <None Include="Resources\AcceptWeightingResult.png" />
+    <None Include="icon\Edit2nd.ico" />
+    <None Include="icon\undo.png" />
+    <None Include="icon\Can oto.ico" />
+    <Content Include="Can oto.ico" />
+    <Content Include="lib\MSCOMCT2.OCX" />
+    <Content Include="Resources\Button.psd.gif" />
+    <Content Include="Resources\Buttonv.gif" />
+    <None Include="Resources\ChangePass.png" />
+    <None Include="Resources\Child Form Login.gif" />
+    <None Include="Resources\Child Form ChangePass.gif" />
+    <Content Include="Resources\cmdClose.gif" />
+    <Content Include="Resources\cmdMenuButton1.gif" />
+    <Content Include="Resources\cmdMenuButton2.gif" />
+    <Content Include="Resources\cmdMenuButton3.gif" />
+    <Content Include="Resources\cmdMinimize.gif" />
+    <None Include="Resources\Docking2.gif" />
+    <None Include="Resources\Docking1.gif" />
+    <None Include="Resources\Customers.png" />
+    <None Include="Resources\delete.ico" />
+    <Content Include="Resources\delete2.png" />
+    <Content Include="Resources\DockingForm.gif" />
+    <None Include="Resources\File.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\Employees.png" />
+    <None Include="Resources\edit.ico" />
+    <Content Include="Resources\frmChild.gif" />
+    <Content Include="Resources\frmConnectConfig.gif" />
+    <Content Include="Resources\frmMain.gif" />
+    <Content Include="Resources\MenuButton.gif" />
+    <None Include="Resources\new.png" />
+    <None Include="Resources\new-48x48.png" />
+    <None Include="Resources\NhanSoCan.png" />
+    <Content Include="Resources\Password.jpg" />
+    <None Include="Resources\Report.png" />
+    <None Include="Resources\Products.png" />
+    <None Include="Resources\print.png" />
+    <Content Include="Resources\Setting.jpg" />
+    <None Include="Resources\Them khach hang.jpg" />
+    <Content Include="Resources\TitleBar.gif" />
+    <None Include="Resources\Tra cuu khach hang.jpg" />
+    <None Include="Resources\undo.png" />
+    <None Include="Resources\view.ico" />
+    <Content Include="Resources\WhiteBackground.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="C1.C1PrintDocument">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="C1.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="C1.Win.C1PrintPreview">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="C1.Win.C1Report">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

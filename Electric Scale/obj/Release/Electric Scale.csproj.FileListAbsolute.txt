@@ -1,0 +1,43 @@
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.ResolveComReference.cache
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmHotKey.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmAddWeightingSheet.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmChangePassword.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCreateReport.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditstWeightInfo.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditUser.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditGroup.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCustomer.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmDepartment.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmProduct.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmGroupAndUser.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmReportView.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmWeightingSheet.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmLogin.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmMain.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmOptionSetting.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditCustomer.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditDepartment.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditProduct.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric_Scale.Properties.Resources.resources
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.GenerateResource.cache
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.licenses
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.CoreCompileInputs.cache
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.pdb
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe.manifest
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\Electric Scale.application
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\Electric Scale.pdb
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.Shared.dll
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\stdole.dll
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.Shared.xml
+D:\Source\Electric Scale\Electric Scale\Electric Scale\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.TrustInfo.xml
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.manifest
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.application
+D:\Source\Electric Scale\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.CopyComplete

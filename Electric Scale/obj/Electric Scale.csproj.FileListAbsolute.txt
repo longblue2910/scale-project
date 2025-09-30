@@ -1,0 +1,168 @@
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe.manifest
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\Electric Scale.application
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\Electric Scale.pdb
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\AxInterop.MSComCtl2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1Command.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1Input.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1List.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\Interop.MSComCtl2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1List.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1Input.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1Command.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Release\C1.Win.C1TrueDBGrid.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\ResolveAssemblyReference.cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.ResolveComReference.cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.rpt.WeightingSheet.rpt
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmHotKey.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmAddWeightingSheet.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmChangePassword.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCreateReport.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditstWeightInfo.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditUser.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditGroup.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCustomer.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmDepartment.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmProduct.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmGroupAndUser.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmReportView.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmWeightingSheet.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmLogin.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmMain.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmOptionSetting.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditCustomer.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditDepartment.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditProduct.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric_Scale.Properties.Resources.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.GenerateResource.Cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.licenses
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.TrustInfo.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.manifest
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.application
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.pdb
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\Electric Scale.exe.manifest
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\Electric Scale.application
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\Electric Scale.exe
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\Electric Scale.pdb
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\AxInterop.MSComCtl2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1Command.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1Input.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1List.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\Interop.MSComCtl2.dll
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1List.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1Input.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1Command.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\ResolveAssemblyReference.cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.csproj.ResolveComReference.cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.rpt.WeightingSheet.rpt
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmHotKey.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmAddWeightingSheet.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmChangePassword.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmCreateReport.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditstWeightInfo.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditUser.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditGroup.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmCustomer.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmDepartment.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmProduct.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmGroupAndUser.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmReportView.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmWeightingSheet.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmLogin.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmMain.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmOptionSetting.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditCustomer.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditDepartment.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditProduct.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.Properties.Resources.resources
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.csproj.GenerateResource.Cache
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe.licenses
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.TrustInfo.xml
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe.manifest
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.application
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe
+D:\Datas\Working\Aji_Soft\Scale program\SourceCode\Electric Scale\Electric Scale\obj\Debug\Electric Scale.pdb
+\\vtnssv07\Aji_Soft\Electric Scale\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe
+\\vtnssv07\Aji_Soft\Electric Scale\SourceCode\Electric Scale\Electric Scale\obj\Release\Electric Scale.pdb
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.pdb
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe.manifest
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\Electric Scale.application
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\Electric Scale.exe
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\Electric Scale.pdb
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\c1.c1excel.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\C1.C1PrintDocument.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\C1.Common.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\C1.Win.C1PrintPreview.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Release\C1.Win.C1Report.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.ResolveComReference.cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.rpt.WeightingSheet.rpt
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmHotKey.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmAddWeightingSheet.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmChangePassword.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCreateReport.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditstWeightInfo.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditUser.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditGroup.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmCustomer.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmDepartment.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmProduct.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmGroupAndUser.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmReportView.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmWeightingSheet.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmLogin.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmMain.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmOptionSetting.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditCustomer.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditDepartment.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.frm.frmEditProduct.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric_Scale.Properties.Resources.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.csproj.GenerateResource.Cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.licenses
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.TrustInfo.xml
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.exe.manifest
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Release\Electric Scale.application
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.pdb
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\Electric Scale.exe.manifest
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\Electric Scale.application
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\Electric Scale.exe
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\c1.c1excel.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\C1.C1PrintDocument.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\C1.Common.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1PrintPreview.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\C1.Win.C1Report.dll
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.csproj.ResolveComReference.cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.rpt.WeightingSheet.rpt
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmHotKey.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmAddWeightingSheet.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmChangePassword.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmCreateReport.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditstWeightInfo.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditUser.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditGroup.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmCustomer.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmDepartment.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmProduct.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmGroupAndUser.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmReportView.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmWeightingSheet.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmLogin.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmMain.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmOptionSetting.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditCustomer.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditDepartment.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.frm.frmEditProduct.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric_Scale.Properties.Resources.resources
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.csproj.GenerateResource.Cache
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe.licenses
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.TrustInfo.xml
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.exe.manifest
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\obj\Debug\Electric Scale.application
+C:\Users\vuong_th\Desktop\Electric Scale\Electric Scale\bin\Debug\Electric Scale.pdb
